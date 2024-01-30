@@ -16,6 +16,10 @@
 - I am a Master Student of Robotics Systems Engineering from RWTH Aachen University, Germany
 - I completed my Bachelors Degree in Mechanical Engineering from Indian Institute of Technology, Kharagpur
 
+### Technical Experience
+- Languages: Python(Pytorch, Tensorflow, Stable Baselines, Gym, MuJoCo), Embedded C, C++
+- Tools: NVIDIA Omniverse, ROS, Docker, WANDB, MATLAB, LaTeX, Blender
+
 <!--
 **Unnon97/Unnon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
