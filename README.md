@@ -6,11 +6,14 @@
 - Utilizing my learnings on robot perception from space robotics project experience
 
 ### My Interests:
-- Started with Mechanical systems and Electronics projects
+- Robot perception, localisation and decision making systems:
+  - Multi-sensor fusion
+  - Visual Reinforcement Learning
+  - Robot state representation
+  - Optical Flow, Visual Odometry, Depth Estimation
+  - Synthetic Data generation
+- Mechatronic systems
 - Robot design and prototyping 
-- Robot perception and decision making systems both in mobile and manipulator robots
-- Sensor fusion and robot state representation
-- Research papers, SOTA algorithms for robotics in remote locations making own decisions based on what they understand
 
 ### Education background
 - I am a Master Student of Robotics Systems Engineering from RWTH Aachen University, Germany
