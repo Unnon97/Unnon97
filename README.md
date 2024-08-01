@@ -1,9 +1,12 @@
-## Hi there 👋, My name is Dheeraj and here is my life:
+## Hi there 👋, My name is Dheeraj and here is some information about me:
 
 ### Current Status
-- Working on my Master Thesis at Fraunhofer IPA, Stuttgart: Combining Vision, Force Control and Reinforcement Learning for robot decision making 
-- Appling multimodality in perception of a robot manipulator in assembly line.
-- Utilizing my learnings on robot perception from space robotics project experience
+Looking for a full-time opportunity in robotics software: perception and sensor fusion systems in mobile robots and manipulation. I am also interested in working on real world problems using computer vision algorithms for different field of applications.
+
+### Recent Work
+- Completed my Master Thesis at Fraunhofer IPA, Stuttgart on Combining Vision, Force Control and Reinforcement Learning for task decision making 
+- Developed a multimodal sytem in perception of a robot manipulator in assembly line.
+- Created a data-efficient system capable of training Reinforcement Learning model quickly with quick deployability
 
 ### My Interests:
 - Robot perception, localisation and decision making systems:
