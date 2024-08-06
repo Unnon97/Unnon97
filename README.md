@@ -1,7 +1,7 @@
 ## Hi there 👋, My name is Dheeraj and here is some information about me:
 
 ### Current Status
-Looking for a full-time opportunity in robotics software: perception and sensor fusion systems in mobile robots and manipulation. I am also interested in working on real-world problems using computer vision algorithms for different fields of applications.
+Looking for an internship and/or a full-time opportunity in robotics software: perception and sensor fusion systems in mobile robots and manipulation. I am also interested in working on real-world problems using computer vision algorithms for different fields of applications.
 
 ### Recent Work
 - Completed my Master's Thesis at Fraunhofer IPA, Stuttgart on Combining Vision, Force Control and Reinforcement Learning for task decision-making 
