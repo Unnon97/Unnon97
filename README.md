@@ -10,15 +10,16 @@ Looking for an internship and/or a full-time opportunity in robotics software: p
 
 ### My Interests:
 My long term interest is to build a learning based system for a mobile manipulator robot. The system would use perception algorithms and multi-sensor fusion to understand its location in its neighbourhood and to estimate object pose to manipulate in an area of disaster rescue. Therefore, I am building my knowledge by working on different modern computer vision, sensor fusion and motion planning systems in different real world applications such as mobile robots for terrestrial surroundings, manipulation robotics for assembly and ego motion understanding for mobile robots. These applications help me gain vital understandings about structured setups for different mobile and manipulation robots.
-Some of these topics are:
+
+Some of the topics I have worked upon are:
   - Multi-sensor fusion
   - Visual Reinforcement Learning
   - Robot state representation
   - Optical Flow, Visual Odometry, Depth Estimation
   - Synthetic Data Generation
   - Object pose estimation
-- Mechatronic systems
-- Robot design and prototyping 
+  - Mechatronic systems
+  - Robot body and circuit design and prototyping 
 
 ### Education background
 - I am a Master Student of Robotics Systems Engineering from RWTH Aachen University, Germany
