@@ -4,7 +4,7 @@ Currently looking for an internship/work student or a full-time opportunity in r
 
 ### Current self-projects
 - Application of Moveit in ROS2(Humble) to understand skills and how they could be combined with visual representation of object pose and perform manipulator motion which could help in developing concepts of embodied AI for robot manipulation
-- I am also improving my understanding of Nav2 for mobile manipulation robot projects
+- Concepts of Behavior Tree in application of Nav2 for mobile manipulation robot projects
 
 ### Recent Work
 - Completed my Master's Thesis at Fraunhofer IPA, Stuttgart on Combining Vision, Force Control and Reinforcement Learning for task decision-making 
