@@ -4,7 +4,7 @@ Currently looking for an internship/work student or a full-time opportunity in r
 
 ### Current personal projects: To learn concepts and experiment with existing research status in the field of mobila manipulation and 3D perception
 - Application of Moveit in ROS2(Humble) to understand skills and how they could be combined with visual representation of object pose and perform manipulator motion which could help in developing concepts of embodied AI for robot manipulation
-- Implementing Camera-Radar Net(https://github.com/youngskkim/CRN) on Oxford Offline dataset to extract BEV
+- Implementing Camera-Radar Net[https://github.com/youngskkim/CRN](https://arxiv.org/abs/2304.00670) on Oxford Offline dataset to extract BEV
 
 ### Recent Work
 - Completed my Master's Thesis at Fraunhofer IPA, Stuttgart on Combining Vision, Force Control and Reinforcement Learning for task decision-making 
