@@ -1,12 +1,14 @@
 ## Hi there 👋, My name is Dheeraj and here is some information about me:
 
-Currently looking for an internship/work student or a full-time opportunity in robotics software: perception and sensor fusion systems in mobile robots and manipulation. I am also interested in working on real-world problems using computer vision algorithms for different fields of applications.
+Currently looking for a full-time opportunity in robotics software: perception and sensor fusion systems in mobile robots and manipulation. I am also interested in working on real-world problems using computer vision algorithms for different fields of applications.
 
-### Current personal projects: To learn concepts and experiment with existing research in mobile manipulation and 3D perception
-- Application of Moveit in ROS2(Humble) to understand skills and how they could be combined with visual representation of object pose and perform manipulator motion which could help in developing concepts of embodied AI for robot manipulation
-- Experimenting with fusion of camera and radar data for object detection for navigation and manipulation
+### Current personal projects:
+- Application of Moveit in ROS2 to understand skills and its use for extracting object information for manipulation
+- Using VIO and behaviour trees for robot perception, navigation, and action planning in mobile manipulators
 
 ### Recent Work
+- Using BundleSDF for object pose extraction for gripping industrial parts with irregular object geometry.
+- Experimenting with vision pipelines for use in a Voxposer setup
 - Completed my Master's Thesis at Fraunhofer IPA, Stuttgart on Combining Vision, Force Control and Reinforcement Learning for task decision-making 
 - Developed a multimodal system in the perception of a robot manipulator in an assembly line.
 - Created a data-efficient system capable of training the Reinforcement Learning model quickly with quick deployability
@@ -17,7 +19,7 @@ My long-term interest is to build a learning-based system for a mobile manipulat
 Some of the topics I have worked on are:
   - Multi-sensor fusion
   - Visual Reinforcement Learning
-  - Robot state representation
+  - Robot perception for navigation and manipulation
   - Optical Flow, Visual Odometry, Depth Estimation
   - Synthetic Data Generation
   - Object pose estimation
