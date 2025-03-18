@@ -1,6 +1,6 @@
 ## Hi there 👋, My name is Dheeraj and here is some information about me:
 
-Currently looking for a full-time opportunity in robotics software: perception and sensor fusion systems in mobile robots and manipulation. I am also interested in working on real-world problems using computer vision algorithms for different fields of applications.
+Currently working as a Research Associate(Wissenschaftlicher Mitarbeiter) at Fraunhofer IPA, Stuttgart. I focus on applications of force-based robot programming for Disassembly and Assembly tasks for industrial use cases. Morever, my projects focus on multi-sensor understanding and C++ development for robot controllers.
 
 ### Current personal projects:
 - Application of Moveit in ROS2 to understand skills and its use for extracting object information for manipulation
